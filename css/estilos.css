@@ -1,2 +1,16 @@
-#a {color:pink;}
-
+legend {
+	/*border:1px solid black;*/
+	border-style: solid;
+	border-color: black;
+	border-width: thin;
+	border-radius: 25px;
+	background-color: white;
+}
+#fondo1{
+	background-color: lightgrey;
+	border-radius: 25px;
+}
+#fondo2{
+	background-color: beige;
+	border-radius: 25px;
+}
