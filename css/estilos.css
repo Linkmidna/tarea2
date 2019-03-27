@@ -7,10 +7,15 @@ legend {
 	background-color: white;
 }
 #fondo1{
-	background-color: lightgrey;
+	background-color: silver;
 	border-radius: 25px;
 }
 #fondo2{
-	background-color: beige;
+	background-color: peachpuff;
 	border-radius: 25px;
 }
+#fondo3{
+	background-color: rosybrown;
+	border-radius: 25px;
+}
+ul {list-style-type:none;}
